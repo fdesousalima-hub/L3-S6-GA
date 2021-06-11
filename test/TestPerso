@@ -1,0 +1,4 @@
+Var angle;
+Debut
+angle = 1+3 * -5;
+Fin

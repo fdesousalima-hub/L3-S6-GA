@@ -1,0 +1,7 @@
+*.cmi
+*.cmo
+*.automaton
+*.conflicts
+parser
+parser.ml
+ No newline at end of file
