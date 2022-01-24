@@ -20,8 +20,6 @@ Au niveau des fichiers sources, ils sont séparés en 5:
 
 Pour la compilation, nous avons fait le choix d'un `Makefile`
 
-Dans le cas où ce rapport ne répondrait pas à une de vos questions, n'hésitez pas à contacter l'un d'entre nous (Voir coordonnées ci-dessous).
-
 ## Compilation & Exécution
 
 ### Compilation
