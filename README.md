@@ -22,12 +22,6 @@ Pour la compilation, nous avons fait le choix d'un `Makefile`
 
 Dans le cas où ce rapport ne répondrait pas à une de vos questions, n'hésitez pas à contacter l'un d'entre nous (Voir coordonnées ci-dessous).
 
-## Etudiants
-| Prénom | NOM | Numéro étudiant | Groupe | Pseudo Git | Mail | Discord |
-| --- | --- | --- | --- | --- | --- | --- |
-| Fabio | DE SOUSA LIMA | 71802806 | Groupe 2 | @desousal | fabio.jorge2000@hotmail.fr | Asuos#2448 |
-| Clément | MEBARKI | 71800676 | Groupe 2 | @mebarkic | m_clement@live.fr | veveles#3811 |
-
 ## Compilation & Exécution
 
 ### Compilation
